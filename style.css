@@ -1,0 +1,24 @@
+#html {
+    color: green;
+}
+#pink {
+    color: pink;
+}
+#blue {
+    color:rgb(96, 86, 241);
+}
+#yellow {
+    color: yellowgreen;
+}
+.ordinary {
+    color: green;
+    font-size: 20px;
+}
+.center-div{
+    margin: 0 auto;
+    width: 100px;
+
+}
+.block {
+    color: purple;
+}
