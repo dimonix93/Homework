@@ -8,4 +8,6 @@
 }
     .block {
         color: purple;
+        border-style:dotted;
+}
     }
