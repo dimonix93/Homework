@@ -1,21 +1,11 @@
-#html {
-    color: green;
+#P1 {
+    color: red;
 }
-#pink {
-    color: pink;
-}
-#blue {
-    color:rgb(96, 86, 241);
-}
-#yellow {
-    color: yellowgreen;
+#P2 {
+    color: black;
 }
 .ordinary {
-    color: green;
-    font-size: 20px;
+    color: plum;
 }
-.center-div{
-    margin: 0 auto;
-    width: 100px;
 
-}
+
